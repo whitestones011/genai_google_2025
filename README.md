@@ -1,16 +1,14 @@
 # 5-day Gen AI Intensive Course with Google 2025
 
-This is compilation of Kaggle Gen AI Intesive Course with Google 2025.
+This is compilation of Kaggle Gen AI Intensive Course with Google 2025.
 
 I'm using it as my personal notes.
 
-## Prerequisite
+## Prerequisites
 
 Sign up for an [AI Studio](https://aistudio.google.com/prompts/new_chat) account and generate an [API key](https://aistudio.google.com/app/apikey).
 
 ## [Day 1 - Prompting](./prompting/)
-
-In this section:
 
 Exploting the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. The art of prompt engineering for optimal LLM interaction and evaluating LLMs. 
 
